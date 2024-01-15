@@ -1,4 +1,7 @@
 # RSTP_Cams_Streaming_ROS
+<p align="center">
+  <img src="https://github.com/DavAl36/RSTP_Cams_Streaming_ROS/assets/114728905/d00d7700-4251-4dfa-8d18-d855106a25dc" width="500" />
+</p>
 
 ### Description
 
